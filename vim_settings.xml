@@ -1,0 +1,314 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/gradle.properties" timestamp="1551715121337">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/Main2Activity.kt" timestamp="1551655532601">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/fragment_bookmark_list.xml" timestamp="1553243634232">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" timestamp="1553227354145">
+        <mark key="[" line="212" column="45" />
+        <mark key="]" line="217" column="89" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="217" column="89" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/values/strings.xml" timestamp="1553334079394">
+        <mark key="[" line="65" column="41" />
+        <mark key="]" line="63" column="29" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/SettingsActivity.kt" timestamp="1552502070571">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/fragment/FolderListFragment.kt" timestamp="1553535172338">
+        <mark key="[" line="34" column="63" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/nav_header_main.xml" timestamp="1552498373029">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="24" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/res/values/strings.xml" timestamp="1553225177774">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/Entities.kt" timestamp="1551714718207">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/realm/Item.kt" timestamp="1551715058873">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/build.gradle" timestamp="1553226329859">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="46" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/fragment/BookmarkListFragment.kt" timestamp="1553243356548">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/SortableListView.kt" timestamp="1553533891304">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="271" column="68" />
+        <mark key="." line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/BackupRealm.kt" timestamp="1551712598794">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/service/StatusNotificationService.kt" timestamp="1553333822738">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/MainActivity.kt" timestamp="1553227463629">
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="53" column="56" />
+        <mark key="^" line="53" column="59" />
+        <mark key="." line="53" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/Notifications.kt" timestamp="1553226426416">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546876955990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1545637226452">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1555743334107">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="42" column="59" />
+        <mark key="^" line="47" column="69" />
+        <mark key="." line="47" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/MainActivity.kt" timestamp="1553533590419">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="99" column="63" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/fragment_folder_list.xml" timestamp="1553535238159">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/content_main.xml" timestamp="1553242256256">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/activity_main.xml" timestamp="1553334733172">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="17" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/values/dimens.xml" timestamp="1552497189870">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/gradle.properties" timestamp="1551606142594">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/API.kt" timestamp="1551715405832">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="48" />
+        <mark key="^" line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/DragListener.kt" timestamp="1553534020664">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/BackupProcessing.kt" timestamp="1552499627419">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="161" column="33" />
+        <mark key="." line="180" column="4" />
+        <mark key="^" line="180" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/fragment/FolderFragment.kt" timestamp="1553243463645">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/app_bar_main.xml" timestamp="1553334828177">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/realm/Folder.kt" timestamp="1552502217531">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/menu/activity_main_drawer.xml" timestamp="1553334213501">
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="12" column="60" />
+        <mark key="." line="12" column="60" />
+        <mark key="^" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/broadcast/ModeChangeReceiver.kt" timestamp="1553227676119">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="13" column="65" />
+      </file>
+      <file name="/fragment.java" timestamp="1552498979187">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BookmarkManagement/app/build.gradle" timestamp="1551606724496">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="88" />
+        <mark key="^" line="27" column="81" />
+        <mark key="." line="34" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/HomeApplication/app/src/main/kotlin/net/ambitious/android/homeapplication/service/StatusNotificationService.kt" />
+      <jump line="15" column="33" filename="$USER_HOME$/workspace/HomeApplication/app/src/main/kotlin/net/ambitious/android/homeapplication/service/OnOffBroadcastCheckService.kt" />
+      <jump line="46" column="27" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/service/StatusNotificationService.kt" />
+      <jump line="88" column="0" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/MainActivity.kt" />
+      <jump line="165" column="15" filename="$USER_HOME$/workspace/HomeApplication/app/src/main/kotlin/net/ambitious/android/homeapplication/util/MainActivityUtilities.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/HomeApplication/app/src/main/res/layout/toast_layout.xml" />
+      <jump line="19" column="15" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/res/layout/content_main.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/HomeApplication/app/src/main/res/layout/camera_fragment.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/res/layout/camera_fragment.xml" />
+      <jump line="37" column="5" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/res/layout/content_main.xml" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/res/layout/content_main.xml" />
+      <jump line="73" column="70" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" />
+      <jump line="152" column="4" filename="$USER_HOME$/workspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/OuchiAppli/gradle.properties" />
+      <jump line="35" column="22" filename="$USER_HOME$/workspace/bookmarkmanagement/app/build.gradle" />
+      <jump line="21" column="18" filename="$USER_HOME$/workspace/uploadimage/app/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/RestShorcutCreater/app/src/main/res/layout/activity_settings.xml" />
+      <jump line="3" column="27" filename="$USER_HOME$/workspace/RestShorcutCreater/app/src/main/res/values/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/RestShorcutCreater/app/src/main/res/menu/menu_main.xml" />
+      <jump line="20" column="23" filename="$USER_HOME$/workspace/RestShorcutCreater/app/src/main/java/net/ambitious/android/restshorcutcreater/SettingsActivity.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/menu/activity_main_drawer.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/fragment/CreateFolderDialogFragment.kt" />
+      <jump line="11" column="11" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/fragment_bookmark_list.xml" />
+      <jump line="7" column="8" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/fragment_bookmark_list.xml" />
+      <jump line="17" column="5" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/res/layout/fragment_bookmark_list.xml" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/MainActivity.kt" />
+      <jump line="20" column="11" filename="$USER_HOME$/workspace/BookmarkManagement/app/src/main/java/net/ambitious/android/bookmarkmanagement/util/SortableListView.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>net.ambitious.android.bookmarkmanagement.util.SortableListView</text>
+      </register>
+      <register name="-" type="4">
+        <text>net.ambitious.android.bookmarkmanagement.util.SortableListView</text>
+      </register>
+      <register name="/" type="4">
+        <text>Crashlytics</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcmVhbG0gPSBSZWFsbS5nZXREZWZhdWx0SW5zdGFuY2UoKQogICAgICAgIHZhbCBmb2xkZXJzID0gcmVhbG0ud2hlcmUoRm9sZGVyOjpjbGFzcy5qYXZhKS5maW5kQWxsKCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9mb2xkZXJfbGlzdC4qCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5hbWJpdGlvdXMuYW5kcm9pZC5ib29rbWFya21hbmFnZW1lbnQudXRpbC5Tb3J0YWJsZUxpc3RWaWV3Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb2xkZXJMaXN0Vmlldy5zZXREcmFnTGlzdGVuZXIoU29ydGFibGVMaXN0Vmlldy5EcmFnTGlzdGVuZXIoKSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKiDjg4njg6njg4PjgrDjgqTjg5njg7Pjg4jjg6rjgrnjg4rjga7oqK3lrpogICovCiAgICBmdW4gc2V0RHJhZ0xpc3RlbmVyKGxpc3RlbmVyOiBEcmFnTGlzdGVuZXIpIHsKICAgICAgICBtRHJhZ0xpc3RlbmVyID0gbGlzdGVuZXIKICAgIH0KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8bmV0LmFtYml0aW91cy5hbmRyb2lkLmJvb2ttYXJrbWFuYWdlbWVudC51dGlsLlNvcnRhYmxlTGlzdFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGlzdFZpZXcxIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCI+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8L25ldC5hbWJpdGlvdXMuYW5kcm9pZC5ib29rbWFya21hbmFnZW1lbnQudXRpbC5Tb3J0YWJsZUxpc3RWaWV3Pgo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Crashlytics</last-search>
+      <last-offset />
+      <last-pattern>Crashlytics</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Crashlytics</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
