@@ -63,10 +63,10 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="3" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/ShareBookmarks/build.gradle" timestamp="1586873279449">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/workspace/ShareBookmarks/build.gradle" timestamp="1595281179339">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/ShareBookmarks/app/src/main/res/layout/app_bar_main.xml" timestamp="1584854260340">
         <mark key="[" line="22" column="37" />
@@ -138,12 +138,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/ShareBookmarks/app/build.gradle" timestamp="1584855508783">
-        <mark key="[" line="47" column="60" />
-        <mark key="]" line="47" column="67" />
-        <mark key="." line="47" column="60" />
-        <mark key="^" line="34" column="62" />
-      </file>
+      <file name="$USER_HOME$/workspace/ShareBookmarks/app/build.gradle" timestamp="1595281180532" />
     </filemarks>
     <jumps>
       <jump line="42" column="0" filename="$USER_HOME$/workspace/HomeApplication/app/src/main/kotlin/net/ambitious/android/homeapplication/service/StatusNotificationService.kt" />
@@ -192,8 +187,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>aterm-shark-a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA5NDJhNWRmMGE0ZmE2MGNkNTg5MTMyYWQxMmEzYzdmMWZlOTAyYTE1Cg==</text>
       </register>
       <register name="-" type="4">
         <text>IwaveGuestAP</text>
@@ -205,31 +200,31 @@
         <text>aterm-shark-a</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uVVNFX1NJUCIgLz4K</text>
+        <text encoding="base64">Pj4+Pj4+PiA5NDJhNWRmMGE0ZmE2MGNkNTg5MTMyYWQxMmEzYzdmMWZlOTAyYTE1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLlVTRV9TSVAsCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjYuMycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIEFjdGl2aXR5Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24odGhpcywgTWFuaWZlc3QucGVybWlzc2lvbi5VU0VfU0lQKSAhPSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcHJlZiA9IAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgdG9Vc2Vy</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uVVNFX1NJUCIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTaXBNYW5hZ2VyLm5ld0luc3RhbmNlKHRoaXMpLm9wZW4ocHJvZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLlVTRV9TSVAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFzc3dvcmQgPSB3aGVuICh1c2VyKSB7CiAgICAgICAgICAgICJtYWkiIC0+ICJSZ3R3M3k1Z2JScmgyZmJuIgogICAgICAgICAgICAic2F0b3NoaSIgLT4gIkVna3QzMkdIdDVIZXJuNGYiCiAgICAgICAgICAgIGVsc2UgLT4gIiIKICAgICAgICB9CiAgICAgICAgdmFsIGRpc3BsYXlOYW1lID0gd2hlbiAodXNlcikgewogICAgICAgICAgICAibWFpIiAtPiAi6bq76KGjIgogICAgICAgICAgICAic2F0b3NoaSIgLT4gIuWkp+W/lyIKICAgICAgICAgICAgZWxzZSAtPiAiIgogICAgICAgIH0KICAgICAgICB2YWwgcHJvZmlsZSA9IFNpcFByb2ZpbGUuQnVpbGRlcih1c2VyLCAiMTE3LjEwMi4xODUuMjUzOjM4ODYyIikKICAgICAgICAgICAgICAgIC5zZXRQb3J0KDg4NjIpCiAgICAgICAgICAgICAgICAuc2V0UGFzc3dvcmQocGFzc3dvcmQpCiAgICAgICAgICAgICAgICAuc2V0RGlzcGxheU5hbWUoZGlzcGxheU5hbWUpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIEFjdGl2aXR5Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24odGhpcywgTWFuaWZlc3QucGVybWlzc2lvbi5VU0VfU0lQKSAhPSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRBdXRvUmVnaXN0cmF0aW9uKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHJlZiA9IAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgdG9Vc2Vy</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
