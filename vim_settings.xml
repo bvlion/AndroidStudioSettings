@@ -1,0 +1,400 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxTeW5jU3RhdHNNb2RlbFw+</entry>
+        <entry encoding="base64">XDxVcmlcPg==</entry>
+        <entry encoding="base64">XDxHZHByV2FybmluZ0RpYWxvZ1w+</entry>
+        <entry encoding="base64">XDxaYWltQXBpXD4=</entry>
+        <entry encoding="base64">XDxUcmFuc2Zlclw+</entry>
+        <entry encoding="base64">XDxtSGlzdG9yeUxpc3RQcmVzZW50ZXJcPg==</entry>
+        <entry encoding="base64">XDxzZXRPbkNsaWNrTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2NhbERhdGFTb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxyZW1vdGVGcm9tTW9uZXlJZHNcPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxnZXRTaGFyZWRQcmVmZXJlbmNlc1w+</entry>
+        <entry encoding="base64">XDxfcG9zdFJlc3VsdFw+</entry>
+        <entry encoding="base64">XDzlhoVcPg==</entry>
+        <entry encoding="base64">XDw1MDBkcFw+</entry>
+        <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
+        <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/BargainListActivity.kt" timestamp="1601454459055">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/gradle/wrapper/gradle-wrapper.properties" timestamp="1601448033319">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/build.gradle" timestamp="1601452298393">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="^" line="30" column="12" />
+        <mark key="." line="285" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/fragment/ComparePeriodFragment.kt" timestamp="1601453932659">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="486" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/adapter/BalanceListAdapter.kt" timestamp="1601455910781">
+        <mark key="[" line="282" column="28" />
+        <mark key="]" line="282" column="28" />
+        <mark key="." line="282" column="28" />
+        <mark key="^" line="495" column="3" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601434924802">
+        <mark key="[" line="239" column="27" />
+        <mark key="]" line="379" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/balance_row_item.xml" timestamp="1601455269887" />
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/ContactHistoryFragment.kt" timestamp="1601456208354">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="62" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/activity/MainActivity.java" timestamp="1601445482955">
+        <mark key="'" line="1520" column="104" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/BargainActivity.kt" timestamp="1601456322856">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/build.gradle" timestamp="1601449268501">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/balance_row_empty.xml" timestamp="1601454905064" />
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/fragment/TopFragment.kt" timestamp="1601453231723">
+        <mark key="[" line="70" column="52" />
+        <mark key="]" line="70" column="52" />
+        <mark key="." line="70" column="52" />
+        <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/customview/HiddenPremiumAccountBanner.kt" timestamp="1601453364732">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/fragment/StampHistoryFragment.kt" timestamp="1601452329018">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="40" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/build/tmp/kapt3/stubs/normalDebug/net/zaim/android/view/adapter/BalanceListAdapter.java" timestamp="1601456316054" />
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/FeedbackActivity.kt" timestamp="1601445244008" />
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/BalanceScreenFragment.kt" timestamp="1601452300457">
+        <mark key="[" line="298" column="36" />
+        <mark key="]" line="298" column="36" />
+        <mark key="." line="298" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/OnlineAccountStatusFragment.kt" timestamp="1601452091979">
+        <mark key="[" line="335" column="36" />
+        <mark key="]" line="335" column="36" />
+        <mark key="^" line="335" column="41" />
+        <mark key="." line="335" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/list_account_recommend_item.xml" timestamp="1601455644193" />
+    </filemarks>
+    <jumps>
+      <jump line="27" column="5" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/drawable/ic_category_premium_a_en.xml" />
+      <jump line="3" column="38" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/view_ic_category_premium_a_ja.xml" />
+      <jump line="695" column="48" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/SettingRepository.kt" />
+      <jump line="479" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/presentation/view/activity/SelectInputMethodActivity.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/values/new_color.xml" />
+      <jump line="18" column="11" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/drawable-v21/button_round_square_green.xml" />
+      <jump line="188" column="2" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/impl/SettingRepositoryImpl.kt" />
+      <jump line="9" column="35" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/drawable/ic_category_add.xml" />
+      <jump line="681" column="1" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/helper/AnalyticsHelper.java" />
+      <jump line="950" column="2" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/activity/CategorySettingActivity.java" />
+      <jump line="3" column="4" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/test/v3.23.0/test_list.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.23.0.html" />
+      <jump line="15" column="22" filename="$USER_HOME$/workspace/Zaim-Android-MD/fastlane/metadata/android/ja-JP/changelogs/12132300.txt" />
+      <jump line="53" column="14" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/utils/ResourceUtils.kt" />
+      <jump line="336" column="8" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/utils/ResourceUtils.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/normal/java/net/zaim/android/helper/AdsManager.java" />
+      <jump line="18" column="24" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.24.0.html" />
+      <jump line="0" column="1" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.24.0.html" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/source/local/entity/RealBalanceLocalEntity.kt" />
+      <jump line="10" column="1" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/activity/MainActivity.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/ShareBookmarksDatabase.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/RealBalanceInjection.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/OnlineAccountInjection.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/RealBalanceRepository.kt" />
+      <jump line="49" column="18" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/RealBalanceRepository.kt" />
+      <jump line="157" column="8" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/viewmodel/BalanceTransitionViewModel.kt" />
+      <jump line="210" column="8" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/fragment/NotificationListFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/test/v3.24.0/test_list.md" />
+      <jump line="17" column="45" filename="$USER_HOME$/workspace/Zaim-Android-MD/fastlane/metadata/android/ja-JP/changelogs/12132500.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.25.0.html" />
+      <jump line="155" column="11" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/normal/java/net/zaim/android/helper/AdsManager.java" />
+      <jump line="12" column="21" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/test/v3.26.0/test_list.md" />
+      <jump line="15" column="46" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.26.0.html" />
+      <jump line="0" column="2" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.26.0.html" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/fragment_history_detail_other_bottom_sheet.xml" />
+      <jump line="34" column="27" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/NotificationListActivity.kt" />
+      <jump line="45" column="14" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/AdConfirmationActivity.kt" />
+      <jump line="8" column="14" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/home_item_history.xml" />
+      <jump line="360" column="20" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/fragment_home.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/home_item_history.xml" />
+      <jump line="99" column="53" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/home_item_history.xml" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/source/ZaimApi.kt" />
+      <jump line="33" column="19" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/CategoryInjection.kt" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/GenreInjection.kt" />
+      <jump line="31" column="12" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/PlaceInjection.kt" />
+      <jump line="31" column="12" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/SecurityInjection.kt" />
+      <jump line="29" column="10" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/PointBalanceInjection.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/injection/SettingInjection.kt" />
+      <jump line="5" column="5" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/test/v3.27.0/test_list.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/values/strings.xml" />
+      <jump line="623" column="32" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/values-ja/strings.xml" />
+      <jump line="69" column="2" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/TransferRuleFragment.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/TransferRuleActivity.kt" />
+      <jump line="108" column="43" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/values/strings.xml" />
+      <jump line="737" column="8" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/presentation/view/fragment/HistoryListFragment.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/activity/MainActivity.kt" />
+      <jump line="35" column="39" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/ItemListAdapter.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/content_main.xml" />
+      <jump line="18" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/content_main.xml" />
+      <jump line="43" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/activity_inquiry.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/activity_inquiry.xml" />
+      <jump line="21" column="5" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/activity_feedback.xml" />
+      <jump line="5" column="48" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/item_row.xml" />
+      <jump line="47" column="8" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/item_row.xml" />
+      <jump line="213" column="6" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/impl/MoneyRepositoryImpl.kt" />
+      <jump line="113" column="29" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/source/remote/MoneyRemoteDataSource.kt" />
+      <jump line="12" column="12" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/PreferencesUtils.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/PreferencesUtils.kt" />
+      <jump line="7" column="15" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.29.0.html" />
+      <jump line="9" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/remote/ShareBookmarksApi.kt" />
+      <jump line="17" column="6" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/inquiry/InquiryViewModel.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values-ja/strings.xml" />
+      <jump line="77" column="13" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/normal/java/net/zaim/android/helper/AdsManager.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/row_breadcrumbs.xml" />
+      <jump line="42" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/4.8.1/dd089ec870cfe9d854ed60eb958e4a020d63756f/logging-interceptor-4.8.1-sources.jar!/okhttp3/logging/HttpLoggingInterceptor.kt" />
+      <jump line="53" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/4.8.1/dd089ec870cfe9d854ed60eb958e4a020d63756f/logging-interceptor-4.8.1-sources.jar!/okhttp3/logging/HttpLoggingInterceptor.kt" />
+      <jump line="136" column="20" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/adapter/ItemListAdapter.kt" />
+      <jump line="5" column="25" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/drawable/splash.xml" />
+      <jump line="1" column="7" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/activity_notification.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/AndroidManifest.xml" />
+      <jump line="621" column="2" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/impl/SettingRepositoryImpl.kt" />
+      <jump line="7" column="16" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/activity_notification.xml" />
+      <jump line="18" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/local/share/Share.kt" />
+      <jump line="15" column="8" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/menu/share.xml" />
+      <jump line="31" column="20" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/menu/share.xml" />
+      <jump line="8" column="20" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/activity_setting.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/dimens.xml" />
+      <jump line="30" column="6" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/row_share_user.xml" />
+      <jump line="60" column="12" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/adapter/ShareUserListAdapter.kt" />
+      <jump line="12" column="16" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/colors.xml" />
+      <jump line="41" column="16" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/styles.xml" />
+      <jump line="34" column="15" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/styles.xml" />
+      <jump line="216" column="58" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/AndroidManifest.xml" />
+      <jump line="7" column="12" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/remote/share/ShareEntity.kt" />
+      <jump line="111" column="0" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ShareBookmarksApplication.kt" />
+      <jump line="58" column="51" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/test/java/net/ambitious/android/sharebookmarks/viewmodel/NotificationViewModelTest.kt" />
+      <jump line="131" column="37" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/adapter/ItemListAdapter.kt" />
+      <jump line="28" column="14" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/row_item.xml" />
+      <jump line="5" column="44" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.32.0.html" />
+      <jump line="1520" column="104" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/activity/MainActivity.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5PYnNlcnZlcgo=</text>
+      </register>
+      <register name="d" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>this</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic3luY19zdGFydCI+5ZCM5pyf44KS6ZaL5aeL44GX44G+44GZ44CCPC9zdHJpbmc+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5PYnNlcnZlcgo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQWN0aXZpdHlDcmVhdGVkKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgc3VwZXIub25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgYnVpbGRWaWV3cygpCiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9jb250YWN0X2hpc3RvcnkuY29udGFjdF9yZWN5Y2xlcl92aWV3CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uZnJhZ21lbnRfY29udGFjdF9oaXN0b3J5LmNvbnRlbnRzX2xvYWRpbmdfdmlldwppbXBvcnQga290bGlueC5hbmRyb2lkLnN5bnRoZXRpYy5tYWluLmZyYWdtZW50X2NvbnRhY3RfaGlzdG9yeS5lbXB0eV90ZXh0CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uZnJhZ21lbnRfY29udGFjdF9oaXN0b3J5LnJldHJ5X2xvYWRfYnV0dG9uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19lbXB0eS52aWV3LmVtcHR5X3JlY3ljbGVyX3ZpZXcKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19lbXB0eS52aWV3LnJlY29tbWVuZF90b3AKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19pdGVtLnZpZXcuYmFsYW5jZV9hY2NvdW50X25hbWUKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19pdGVtLnZpZXcuYmFsYW5jZV9hbW91bnQKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19pdGVtLnZpZXcuYmFsYW5jZV9pY29uCmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4ubGlzdF9hY2NvdW50X21hbnVhbF9pdGVtLnZpZXcubWFudWFsX2NsaWNrX2FyZWEKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5saXN0X2FjY291bnRfcmVjb21tZW5kX2l0ZW0udmlldy5yZWNvbW1lbmRfY29udGVudAppbXBvcnQga290bGlueC5hbmRyb2lkLnN5bnRoZXRpYy5tYWluLmxpc3RfYWNjb3VudF9yZWNvbW1lbmRfaXRlbS52aWV3LnJlY29tbWVuZF9saXN0CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4ubGlzdF9hY2NvdW50X3JlY29tbWVuZF9pdGVtLnZpZXcucmVjb21tZW5kX3RpdGxlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9iYXJnYWluLmJhcmdhaW5fdG9vbGJhcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCB0b29sYmFyID0gYmluZGluZy5iYXJnYWluVG9vbGJhcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCB2aWV3ID0gQWN0aXZpdHlCYXJnYWluTGlzdEJpbmRpbmcuaW5mbGF0ZShsYXlvdXRJbmZsYXRlcikucm9vdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9iYXJnYWluX2xpc3QuKgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lkxpc3RWaWV3Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
