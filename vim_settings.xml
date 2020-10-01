@@ -68,11 +68,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/gradle/wrapper/gradle-wrapper.properties" timestamp="1601448033319">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="71" />
-        <mark key="." line="5" column="71" />
-      </file>
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/build.gradle" timestamp="1601452298393">
         <mark key="[" line="285" column="0" />
         <mark key="]" line="285" column="0" />
@@ -93,6 +88,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/drawable/ic_settings.xml" timestamp="1601593395203" />
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/balance_row_item.xml" timestamp="1601455269887" />
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/ContactHistoryFragment.kt" timestamp="1601456208354">
         <mark key="[" line="11" column="0" />
@@ -109,11 +105,6 @@
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/build.gradle" timestamp="1601449268501">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/balance_row_empty.xml" timestamp="1601454905064" />
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/fragment/TopFragment.kt" timestamp="1601453231723">
@@ -133,6 +124,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="40" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/menu/menu_balance.xml" timestamp="1601593393307" />
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/BalanceScreenFragment.kt" timestamp="1601452300457">
         <mark key="[" line="298" column="36" />
         <mark key="]" line="298" column="36" />
