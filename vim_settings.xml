@@ -86,10 +86,7 @@
         <mark key="^" line="486" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/adapter/BalanceListAdapter.kt" timestamp="1601455910781">
-        <mark key="[" line="282" column="28" />
-        <mark key="]" line="282" column="28" />
-        <mark key="." line="282" column="28" />
-        <mark key="^" line="495" column="3" />
+        <mark key="^" line="502" column="3" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/adapter/ItemListAdapter.kt" timestamp="1601515271729">
         <mark key="[" line="64" column="0" />
@@ -101,10 +98,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="62" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/activity/MainActivity.java" timestamp="1601445482955">
-        <mark key="'" line="1520" column="104" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/impl/ShareBookmarksDataSourceImpl.kt" timestamp="1601510725815">
         <mark key="[" line="176" column="23" />
@@ -113,9 +106,9 @@
         <mark key="^" line="191" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/BargainActivity.kt" timestamp="1601456322856">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/build.gradle" timestamp="1601449268501">
         <mark key="[" line="5" column="33" />
@@ -140,7 +133,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="40" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/build/tmp/kapt3/stubs/normalDebug/net/zaim/android/view/adapter/BalanceListAdapter.java" timestamp="1601456316054" />
       <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/BalanceScreenFragment.kt" timestamp="1601452300457">
         <mark key="[" line="298" column="36" />
         <mark key="]" line="298" column="36" />
