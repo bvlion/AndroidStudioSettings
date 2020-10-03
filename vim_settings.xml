@@ -106,12 +106,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601684794343">
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601686217753">
         <mark key="'" line="33" column="6" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="33" column="35" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="50" column="63" />
+        <mark key="]" line="50" column="63" />
+        <mark key="^" line="50" column="62" />
+        <mark key="." line="50" column="63" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/AndroidManifest.xml" timestamp="1601684696691">
         <mark key="[" line="64" column="17" />
@@ -137,7 +137,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/DataUpdateService.kt" timestamp="1601684953113">
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/DataUpdateService.kt" timestamp="1601686169375">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
@@ -345,13 +345,15 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.apply {
+        action = 
+      }</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MESSAGE_BROADCAST_ACTION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
@@ -359,35 +361,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVucmVnaXN0ZXJSZWNlaXZlcihtZXNzYWdlQnJvYWRjYXN0UmVjZWl2ZXIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5hbWJpdGlvdXMuYW5kcm9pZC5zaGFyZWJvb2ttYXJrcy51dGlsLkNvbnN0Cg==</text>
+      <register name="1" type="4">
+        <text>.apply {
+        action = 
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludGVudD8ubGV0IHsKICAgICAgaXQuZXh0cmFzPy5sZXQgeyBleHRyYXMgLT4KICAgICAgICB2YWwgbWVzc2FnZSA9IGV4dHJhcy5nZXRTdHJpbmcoQ29uc3QuTUVTU0FHRV9CUk9BRENBU1RfQlVORExFKQogICAgICAgIGlmICghbWVzc2FnZS5pc051bGxPckVtcHR5KCkpIHsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdXRFeHRyYShDb25zdC5NRVNTQUdFX0JST0FEQ0FTVF9CVU5ETEUsIGdldFN0cmluZyhtZXNzYWdlSWQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJsb2NrKCkK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5hbWJpdGlvdXMuYW5kcm9pZC5zaGFyZWJvb2ttYXJrcy51dGlsLkNvbnN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZXh0Q29tcGF0Cg==</text>
+        <text encoding="base64">ICAgIGludGVudD8ubGV0IHsKICAgICAgaXQuZXh0cmFzPy5sZXQgeyBleHRyYXMgLT4KICAgICAgICB2YWwgbWVzc2FnZSA9IGV4dHJhcy5nZXRTdHJpbmcoQ29uc3QuTUVTU0FHRV9CUk9BRENBU1RfQlVORExFKQogICAgICAgIGlmICghbWVzc2FnZS5pc051bGxPckVtcHR5KCkpIHsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJsb2NrKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dD8ubGV0IHsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZXh0Q29tcGF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8g44K144Og44ON44Kk44Or5pu05pawCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOOCteODoOODjeOCpOODq+abtOaWsAogICAgY29udGV4dD8ubGV0IHsKICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKAogICAgICAgICAgaXQsCiAgICAgICAgICBJbnRlbnQoY29udGV4dCwgVXBkYXRlSW1hZ2VTZXJ2aWNlOjpjbGFzcy5qYXZhKS5hcHBseSB7CiAgICAgICAgICAgIHB1dEV4dHJhKFVwZGF0ZUltYWdlU2VydmljZS5QQVJBTV9JVEVNX0FMTCwgdHJ1ZSkKICAgICAgICAgIH0pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dD8ubGV0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgLy8g44K144Og44ON44Kk44Or5pu05pawCg==</text>
       </register>
     </registers>
   </component>
