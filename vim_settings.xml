@@ -80,17 +80,12 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/buildsystem/dependencies.gradle" timestamp="1601597408918">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/Const.kt" timestamp="1601685581716">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="65" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601685679395">
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601687782281">
         <mark key="[" line="119" column="94" />
         <mark key="]" line="119" column="94" />
         <mark key="." line="119" column="94" />
@@ -113,28 +108,27 @@
         <mark key="^" line="50" column="62" />
         <mark key="." line="50" column="63" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/AndroidManifest.xml" timestamp="1601684696691">
-        <mark key="[" line="64" column="17" />
-      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601684129080" />
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/MessageBroadcastReceiver.kt" timestamp="1601685310063">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/adapter/ItemListAdapter.kt" timestamp="1601599535324">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/shareadd/ShareAddViewModel.kt" timestamp="1601687453930">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/strings.xml" timestamp="1601681276356">
-        <mark key="[" line="131" column="54" />
-        <mark key="]" line="131" column="66" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeViewModel.kt" timestamp="1601687723585">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="212" column="7" />
+        <mark key="." line="206" column="24" />
+        <mark key="^" line="206" column="25" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/impl/ShareBookmarksDataSourceImpl.kt" timestamp="1601684965903">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/impl/ShareBookmarksDataSourceImpl.kt" timestamp="1601687326401">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="143" column="7" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/DataUpdateService.kt" timestamp="1601686169375">
@@ -148,14 +142,13 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/receiver/MessageBroadcastReceiver.kt" timestamp="1601685463854" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/local/item/ItemDao.kt" timestamp="1601686973129" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/AndroidManifest.xml" timestamp="1601684696691">
+        <mark key="[" line="64" column="17" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeFragment.kt" timestamp="1601687740400" />
       <file name="/fragment.java" timestamp="1601685381123">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/test/v3.32.1/test_list.md" timestamp="1601597379507">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -345,53 +338,73 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.apply {
-        action = 
-      }</text>
+        <text>itemDao.insert(
+                  Item(
+                      null,
+                      null,
+                      folderId,
+                      itemName,
+                      itemUrl,
+                      null,
+                      0,
+                      OWNER.value
+                  )
+              )</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MESSAGE_BROADCAST_ACTION</text>
+        <text>_parentId.value ?: 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVucmVnaXN0ZXJSZWNlaXZlcihtZXNzYWdlQnJvYWRjYXN0UmVjZWl2ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgaXRlbURhby5nZXRJdGVtcyhfcGFyZW50SWQudmFsdWUgPzogMCkuZm9yRWFjaEluZGV4ZWQgeyBpbmRleCwgaXQgLT4KICAgICAgICBpdGVtRGFvLnVwZGF0ZSgKICAgICAgICAgICAgSXRlbSgKICAgICAgICAgICAgICAgIGl0LmlkLAogICAgICAgICAgICAgICAgaXQucmVtb3RlSWQsCiAgICAgICAgICAgICAgICBpdC5wYXJlbnRJZCwKICAgICAgICAgICAgICAgIGl0Lm5hbWUsCiAgICAgICAgICAgICAgICBpdC51cmwsCiAgICAgICAgICAgICAgICBpdC5vZ3BVcmwsCiAgICAgICAgICAgICAgICBpbmRleCArIDEsCiAgICAgICAgICAgICAgICBpdC5vd25lclR5cGUsCiAgICAgICAgICAgICAgICBpdC5hY3RpdmUsCiAgICAgICAgICAgICAgICBEYXRlVGltZSgpCiAgICAgICAgICAgICkKICAgICAgICApCiAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>.apply {
-        action = 
-      }</text>
+        <text>itemDao.insert(
+                  Item(
+                      null,
+                      null,
+                      folderId,
+                      itemName,
+                      itemUrl,
+                      null,
+                      0,
+                      OWNER.value
+                  )
+              )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRFeHRyYShDb25zdC5NRVNTQUdFX0JST0FEQ0FTVF9CVU5ETEUsIGdldFN0cmluZyhtZXNzYWdlSWQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5hbWJpdGlvdXMuYW5kcm9pZC5zaGFyZWJvb2ttYXJrcy51dGlsLkNvbnN0Cg==</text>
+      <register name="3" type="4">
+        <text>.apply {
+        action = 
+      }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludGVudD8ubGV0IHsKICAgICAgaXQuZXh0cmFzPy5sZXQgeyBleHRyYXMgLT4KICAgICAgICB2YWwgbWVzc2FnZSA9IGV4dHJhcy5nZXRTdHJpbmcoQ29uc3QuTUVTU0FHRV9CUk9BRENBU1RfQlVORExFKQogICAgICAgIGlmICghbWVzc2FnZS5pc051bGxPckVtcHR5KCkpIHsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdXRFeHRyYShDb25zdC5NRVNTQUdFX0JST0FEQ0FTVF9CVU5ETEUsIGdldFN0cmluZyhtZXNzYWdlSWQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJsb2NrKCkK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5hbWJpdGlvdXMuYW5kcm9pZC5zaGFyZWJvb2ttYXJrcy51dGlsLkNvbnN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZXh0Q29tcGF0Cg==</text>
+        <text encoding="base64">ICAgIGludGVudD8ubGV0IHsKICAgICAgaXQuZXh0cmFzPy5sZXQgeyBleHRyYXMgLT4KICAgICAgICB2YWwgbWVzc2FnZSA9IGV4dHJhcy5nZXRTdHJpbmcoQ29uc3QuTUVTU0FHRV9CUk9BRENBU1RfQlVORExFKQogICAgICAgIGlmICghbWVzc2FnZS5pc051bGxPckVtcHR5KCkpIHsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJsb2NrKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dD8ubGV0IHsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZXh0Q29tcGF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8g44K144Og44ON44Kk44Or5pu05pawCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
   </component>
