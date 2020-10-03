@@ -64,10 +64,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/Const.kt" timestamp="1601685581716">
-        <mark key="[" line="44" column="23" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/Const.kt" timestamp="1601695540487">
+        <mark key="[" line="44" column="75" />
         <mark key="]" line="44" column="65" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-30/android/widget/Toast.java" timestamp="1601695814778">
+        <mark key="[" line="488" column="24" />
+        <mark key="]" line="488" column="24" />
+        <mark key="." line="488" column="24" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601688420658">
         <mark key="[" line="119" column="94" />
@@ -80,11 +85,6 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/ShareBookmarksDataSource.kt" timestamp="1601684961564">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601686217753">
         <mark key="'" line="33" column="6" />
         <mark key="[" line="50" column="63" />
@@ -92,10 +92,11 @@
         <mark key="^" line="50" column="62" />
         <mark key="." line="50" column="63" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/MessageBroadcastReceiver.kt" timestamp="1601685310063">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601696202275">
+        <mark key="[" line="115" column="66" />
+        <mark key="]" line="115" column="66" />
+        <mark key="." line="115" column="66" />
+        <mark key="^" line="113" column="59" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/shareadd/ShareAddViewModel.kt" timestamp="1601687453930">
         <mark key="[" line="43" column="11" />
@@ -138,7 +139,7 @@
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/local/item/ItemDao.kt" timestamp="1601686973129" />
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/adapter/BreadcrumbsAdapter.kt" timestamp="1601688373713" />
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/colors.xml" timestamp="1601693590102">
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/colors.xml" timestamp="1601695535506">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -342,13 +343,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>color/colorSidebar</text>
+        <text>=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>color/colorSidebar</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
@@ -357,21 +358,24 @@
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclNpZGViYXIiPkBjb2xvci88L2l0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhdHRyIG5hbWU9ImNvbG9yQWNjZW50RGFya1RyYW5zcGFyZW50IiBmb3JtYXQ9ImNvbG9yIiAvPgogICAgPGF0dHIgbmFtZT0iY29sb3JIZWFkZXJEcmF3ZXIiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
+        <text encoding="base64">ICBmdW4gVG9hc3QubWFrZVRvYXN0KCkgewogICAgCiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxhdHRyIG5hbWU9ImNvbG9yQWNjZW50RGFya1RyYW5zcGFyZW50IiBmb3JtYXQ9ImNvbG9yIiAvPgogICAgPGF0dHIgbmFtZT0iY29sb3JIZWFkZXJEcmF3ZXIiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclNpZGViYXIiPiNkZTkzQTJGRjwvY29sb3I+Cgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>itemDao.insert(
                   Item(
                       null,
@@ -385,19 +389,16 @@
                   )
               )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.apply {
         action = 
       }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRFeHRyYShDb25zdC5NRVNTQUdFX0JST0FEQ0FTVF9CVU5ETEUsIGdldFN0cmluZyhtZXNzYWdlSWQpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5hbWJpdGlvdXMuYW5kcm9pZC5zaGFyZWJvb2ttYXJrcy51dGlsLkNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRFeHRyYShDb25zdC5NRVNTQUdFX0JST0FEQ0FTVF9CVU5ETEUsIGdldFN0cmluZyhtZXNzYWdlSWQpKQo=</text>
       </register>
     </registers>
   </component>
