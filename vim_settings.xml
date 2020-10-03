@@ -116,11 +116,6 @@
         <mark key="]" line="143" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/DataUpdateService.kt" timestamp="1601686169375">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/drawable/side_nav_bar.xml" timestamp="1601694261367">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -138,6 +133,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="78" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/.circleci/config.yml" timestamp="1601712008568">
+        <mark key="[" line="92" column="47" />
+        <mark key="]" line="92" column="47" />
+        <mark key="." line="92" column="47" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/colors.xml" timestamp="1601695535506">
         <mark key="[" line="13" column="31" />
@@ -344,14 +344,14 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhZE1vYlRlc3RDb2RlID0gJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NH4zMzQ3NTExNzEzJwogIGFkTW9iVGVzdEJhbm5lcktleSA9ICdjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDQvNDE3NzE5MTAzMCcK</text>
+      <register name="&quot;" type="4">
+        <text>$DEPLOYGATE_TARGET</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>$DEPLOYGATE_TARGET</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
