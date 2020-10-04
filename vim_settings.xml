@@ -41,12 +41,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/MainActivity.kt" timestamp="1584855972384">
-        <mark key="[" line="32" column="87" />
-        <mark key="]" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-        <mark key="^" line="33" column="27" />
-      </file>
       <file name="$USER_HOME$/workspace/ShareBookmarks/.circleci/config.yml" timestamp="1584856621744">
         <mark key="[" line="12" column="75" />
       </file>
