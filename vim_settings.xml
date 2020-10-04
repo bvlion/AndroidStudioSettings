@@ -86,13 +86,6 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601686217753">
-        <mark key="'" line="33" column="6" />
-        <mark key="[" line="50" column="63" />
-        <mark key="]" line="50" column="63" />
-        <mark key="^" line="50" column="62" />
-        <mark key="." line="50" column="63" />
-      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601709110524">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -105,11 +98,11 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeViewModel.kt" timestamp="1601709680096">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="28" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeViewModel.kt" timestamp="1601792177187">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="30" />
         <mark key="^" line="206" column="25" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/impl/ShareBookmarksDataSourceImpl.kt" timestamp="1601687326401">
         <mark key="[" line="130" column="0" />
@@ -344,8 +337,8 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$DEPLOYGATE_TARGET</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9icmVhZGNydW1ic0xpc3QuY2xlYXIoKQo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -360,34 +353,34 @@
         <text encoding="base64">ICBmLndyaXRlKCIgIGFkTW9iVGVzdENvZGUgPSAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0fjMzNDc1MTE3MTMnXG4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZE1vYlRlc3RDb2RlID0gJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NH4zMzQ3NTExNzEzJwogIGFkTW9iVGVzdEJhbm5lcktleSA9ICdjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDQvNDE3NzE5MTAzMCcK</text>
+        <text encoding="base64">ICAgIF9icmVhZGNydW1ic0xpc3QuY2xlYXIoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmLndyaXRlKCIgIGFkTW9iVGVzdENvZGUgPSAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0fjMzNDc1MTE3MTMnXG4iKQogIGYud3JpdGUoIiAgYWRNb2JUZXN0QmFubmVyS2V5ID0gJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NC80MTc3MTkxMDMwJ1xuIikK</text>
+        <text encoding="base64">ICBhZE1vYlRlc3RDb2RlID0gJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NH4zMzQ3NTExNzEzJwogIGFkTW9iVGVzdEJhbm5lcktleSA9ICdjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDQvNDE3NzE5MTAzMCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmLndyaXRlKCIgIGFkTW9iQ29kZSA9ICciKQo=</text>
+        <text encoding="base64">ICBmLndyaXRlKCIgIGFkTW9iVGVzdENvZGUgPSAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0fjMzNDc1MTE3MTMnXG4iKQogIGYud3JpdGUoIiAgYWRNb2JUZXN0QmFubmVyS2V5ID0gJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NC80MTc3MTkxMDMwJ1xuIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmLndyaXRlKEFSR1ZbMl0pCg==</text>
+        <text encoding="base64">ICBmLndyaXRlKCIgIGFkTW9iQ29kZSA9ICciKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmLndyaXRlKEFSR1ZbMV0pCg==</text>
+        <text encoding="base64">ICBmLndyaXRlKEFSR1ZbMl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQEhvbWVBY3Rpdml0eSwgLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpCg==</text>
+        <text encoding="base64">ICBmLndyaXRlKEFSR1ZbMV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVG9hc3QubWFrZVRleHQodGhpc0BIb21lQWN0aXZpdHksIGl0LCBUb2FzdC5MRU5HVEhfU0hPUlQpCiAgICAgICAgICAuYXBwbHkgeyBzZXRHcmF2aXR5KEdyYXZpdHkuQ0VOVEVSLCAwLCAwKSB9CiAgICAgICAgICAuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQEhvbWVBY3Rpdml0eSwgLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9icmVhZGNydW1ic0xpc3QuY2xlYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgVG9hc3QubWFrZVRleHQodGhpc0BIb21lQWN0aXZpdHksIGl0LCBUb2FzdC5MRU5HVEhfU0hPUlQpCiAgICAgICAgICAuYXBwbHkgeyBzZXRHcmF2aXR5KEdyYXZpdHkuQ0VOVEVSLCAwLCAwKSB9CiAgICAgICAgICAuc2hvdygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3CmltcG9ydCBhbmRyb2lkLndpZGdldC5Ub2FzdAppbXBvcnQgYW5kcm9pZHguY29yZS52aWV3LnNldFBhZGRpbmcKaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5zbmFja2Jhci5CYXNlVHJhbnNpZW50Qm90dG9tQmFyLkR1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIF9icmVhZGNydW1ic0xpc3QuY2xlYXIoKQo=</text>
       </register>
     </registers>
   </component>
