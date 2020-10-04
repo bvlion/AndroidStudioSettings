@@ -111,9 +111,9 @@
         <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/build.gradle" timestamp="1601794335485">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="54" column="49" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601709110524">
@@ -130,7 +130,7 @@
       <file name="$USER_HOME$/pworkspace/OuchiAppli/build.gradle" timestamp="1601793187085">
         <mark key="[" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/.circleci/config.yml" timestamp="1601794589191" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/.circleci/config.yml" timestamp="1601795476164" />
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeViewModel.kt" timestamp="1601792177187">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="30" />
