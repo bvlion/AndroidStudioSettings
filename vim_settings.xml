@@ -73,10 +73,11 @@
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="72" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601854703187">
-        <mark key="[" line="103" column="57" />
-        <mark key="]" line="106" column="9" />
-        <mark key="." line="100" column="93" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601857647190">
+        <mark key="[" line="96" column="51" />
+        <mark key="]" line="96" column="49" />
+        <mark key="." line="96" column="48" />
+        <mark key="^" line="96" column="49" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ShareBookmarksApplication.kt" timestamp="1601792523328">
         <mark key="[" line="138" column="61" />
@@ -93,12 +94,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="54" column="49" />
-      </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601709110524">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="117" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601854999079">
         <mark key="[" line="44" column="0" />
@@ -129,6 +124,10 @@
         <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/local/item/ItemDao.kt" timestamp="1601854022089" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserActivity.kt" timestamp="1601857530407">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="69" column="30" />
+      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/create-version.rb" timestamp="1601709984117">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="78" />
@@ -336,52 +335,52 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmfjgaNkIG5hbWU9ImZpcnN0X2RpYWxvZ19jYW5jZWxfbWVzc2FnZSI+PC9zdHJpbmfjgaNkPgo=</text>
+      <register name="&quot;" type="4">
+        <text>dialog_cancel</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>更新中…</text>
+        <text>dialog_cancel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmlyc3RfZGlhbG9nX2NhbmNlbF9tZXNzYWdlIj48L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgIEFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpc0BTaGFyZVVzZXJBY3Rpdml0eSkKICAgICAgICAgICAgICAuc2V0TWVzc2FnZShSLnN0cmluZy5zaGFyZV9lbmRfd2FybmluZykKICAgICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oUi5zdHJpbmcuc2hhcmVfZW5kX3dhcm5pbmdfb2spIHsgXywgXyAtPgogICAgICAgICAgICAgICAgZmluaXNoKCkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKFIuc3RyaW5nLmRpYWxvZ19jYW5jZWwsIG51bGwpCiAgICAgICAgICAgICAgLmNyZWF0ZSgpLnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmfjgaNkIG5hbWU9ImZpcnN0X2RpYWxvZ19jYW5jZWxfbWVzc2FnZSI+PC9zdHJpbmfjgaNkPgo=</text>
+        <text encoding="base64">ICAgICAgQWxlcnREaWFsb2cK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmlyc3RfZGlhbG9nX2NhbmNlbF9tZXNzYWdlIj48L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmfjgaNkIG5hbWU9ImZpcnN0X2RpYWxvZ19jYW5jZWxfbWVzc2FnZSI+PC9zdHJpbmfjgaNkPgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmlyc3RfZGlhbG9nX2NhbmNlbF9tZXNzYWdlIj48L3N0cmluZz4K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmlyc3RfZGlhbG9nX20iPjwvc3RyaW5nPgo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>notification_image_update_message
 notification_image_update_message
 notification_image_update_message</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHVwZGF0ZVRodW1ibmFpbCh0aGlzLCBmYWxzZSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh1cmwgPT0gbnVsbCkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB1cmwgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICh1cmwgPT0gbnVsbCkgewo=</text>
       </register>
     </registers>
   </component>
