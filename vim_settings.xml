@@ -95,6 +95,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="54" column="49" />
       </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601939301965">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="117" column="0" />
+      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601854999079">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -130,29 +136,16 @@
         <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/local/item/ItemDao.kt" timestamp="1601854022089" />
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserActivity.kt" timestamp="1601857530407">
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserActivity.kt" timestamp="1601939314790">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="69" column="30" />
-      </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/create-version.rb" timestamp="1601709984117">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="78" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/.circleci/config.yml" timestamp="1601712008568">
-        <mark key="[" line="92" column="47" />
-        <mark key="]" line="92" column="47" />
-        <mark key="." line="92" column="47" />
-      </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/dependencies/ext.gradle" timestamp="1601710037062">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/build.gradle" timestamp="1601793187085">
         <mark key="[" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/.circleci/config.yml" timestamp="1601795476164" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserFragment.kt" timestamp="1601939493919" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserViewModel.kt" timestamp="1601939481775" />
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/service/HomeSituationService.kt" timestamp="1601794489372" />
     </filemarks>
     <jumps>
