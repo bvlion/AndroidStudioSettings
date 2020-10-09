@@ -91,6 +91,9 @@
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602198190763">
         <mark key="[" line="70" column="13" />
       </file>
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" timestamp="1602203231303">
+        <mark key="[" line="39" column="53" />
+      </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/build.gradle" timestamp="1601794335485">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -108,9 +111,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="^" line="49" column="71" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/build.gradle" timestamp="1601793187085">
-        <mark key="[" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeFragment.kt" timestamp="1602030976530">
         <mark key="[" line="157" column="0" />
@@ -149,8 +149,19 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/service/HomeSituationService.kt" timestamp="1602198368295">
+        <mark key="[" line="78" column="15" />
+        <mark key="]" line="80" column="107" />
+        <mark key="^" line="80" column="107" />
+        <mark key="." line="80" column="106" />
+      </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/Entity.kt" timestamp="1602198225315">
         <mark key="[" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/res/values/strings.xml" timestamp="1602202670786">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -339,14 +350,14 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://192.168.11.150:8081</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>folderId</text>
+        <text>http://192.168.11.150:8081</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
