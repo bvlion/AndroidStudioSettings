@@ -83,11 +83,6 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/res/layout/content_main.xml" timestamp="1601793323602">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602198190763">
         <mark key="[" line="70" column="13" />
       </file>
@@ -111,6 +106,9 @@
         <mark key="]" line="44" column="0" />
         <mark key="^" line="49" column="71" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/ReloadableWebView.kt" timestamp="1602204154214">
+        <mark key="[" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeFragment.kt" timestamp="1602030976530">
         <mark key="[" line="157" column="0" />
