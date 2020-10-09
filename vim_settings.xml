@@ -23,6 +23,7 @@
         <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxXZWJWaWV3XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -63,61 +64,93 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/build.gradle" timestamp="1601593808684">
-        <mark key="[" line="394" column="2" />
-        <mark key="]" line="394" column="2" />
-        <mark key="." line="394" column="2" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values-ja/strings.xml" timestamp="1601856954070">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/fastlane/metadata/android/ja-JP/changelogs/12133201.txt" timestamp="1601597223451">
-        <mark key="[" line="2" column="8" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserActivity.kt" timestamp="1601939314790">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/adapter/BalanceListAdapter.kt" timestamp="1601455910781">
-        <mark key="^" line="502" column="3" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/build.gradle" timestamp="1601793350749">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="72" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/adapter/ItemListAdapter.kt" timestamp="1601599535324">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601859064070">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="57" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.32.1.html" timestamp="1601597350643">
-        <mark key="[" line="2" column="8" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/res/layout/content_main.xml" timestamp="1601793323602">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/fastlane/metadata/android/ja-JP/changelogs/12133200.txt" timestamp="1601597213698" />
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/test/v3.32.1/test_list.md" timestamp="1601597379507">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602197952158">
+        <mark key="[" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/drawable/ic_settings.xml" timestamp="1601593395203" />
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/balance_row_item.xml" timestamp="1601455269887" />
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/fragment/ContactHistoryFragment.kt" timestamp="1601456208354">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/build.gradle" timestamp="1601794335485">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/impl/ShareBookmarksDataSourceImpl.kt" timestamp="1601510725815">
-        <mark key="[" line="176" column="23" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="191" column="1" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601939301965">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/kotlin/net/zaim/android/view/activity/BargainActivity.kt" timestamp="1601456322856">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" timestamp="1601854999079">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="49" column="71" />
+        <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/presentation/view/adapter/HistoryListAdapter.java" timestamp="1601595869788" />
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/buildsystem/dependencies.gradle" timestamp="1601597408918">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/build.gradle" timestamp="1601793187085">
+        <mark key="[" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/menu/menu_balance.xml" timestamp="1601593393307" />
-      <file name="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/list_account_recommend_item.xml" timestamp="1601455644193" />
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeFragment.kt" timestamp="1602030976530">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeViewModel.kt" timestamp="1601943143111">
+        <mark key="[" line="253" column="32" />
+        <mark key="]" line="82" column="30" />
+        <mark key="^" line="206" column="25" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values/strings.xml" timestamp="1601856945066">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="133" column="44" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/data/source/impl/ShareBookmarksDataSourceImpl.kt" timestamp="1601854214060">
+        <mark key="[" line="82" column="22" />
+        <mark key="]" line="82" column="22" />
+        <mark key="." line="82" column="22" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserFragment.kt" timestamp="1601941320880">
+        <mark key="[" line="75" column="42" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/share/ShareUserViewModel.kt" timestamp="1601941269226">
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="82" column="40" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="82" column="40" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/dialog_first_message.xml" timestamp="1601859014125">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="11" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="5" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/drawable/ic_category_premium_a_en.xml" />
       <jump line="3" column="38" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/res/layout/view_ic_category_premium_a_ja.xml" />
       <jump line="695" column="48" filename="$USER_HOME$/workspace/Zaim-Android-MD/data/src/main/kotlin/net/zaim/android/data/repository/SettingRepository.kt" />
       <jump line="479" column="0" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/presentation/view/activity/SelectInputMethodActivity.java" />
@@ -217,6 +250,7 @@
       <jump line="28" column="14" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/row_item.xml" />
       <jump line="5" column="44" filename="$USER_HOME$/workspace/Zaim-Android-MD/.zaim_release/change_log/super_zaim/jp-JP/v3.32.0.html" />
       <jump line="1520" column="104" filename="$USER_HOME$/workspace/Zaim-Android-MD/app/src/main/java/net/zaim/android/activity/MainActivity.java" />
+      <jump line="33" column="6" filename="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/service/UpdateImageService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,57 +337,58 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIDEg44O25pyI44Kt44Oj44Oa44O844Oz44Gr5ZCR44GR44Gm44OA44Kk44Ki44Ot44Kw44GM6KGo56S644GV44KM44KL44KI44GG44Gr5L+u5q2j44GZ44KLICM2Nzk0CgotIFsgXSDmlrDopo/jgqTjg7Pjgrnjg4jjg7zjg6vjgpLjgZfjgabnhKHmlpnjg6bjg7zjgrbjg7zjgafjg63jgrDjgqTjg7PjgZfjgabjgoLjgq3jg6Pjg7Pjg5rjg7zjg7Pjg4DjgqTjgqLjg63jgrDjgYzooajnpLrjgZXjgozjgarjgYTjgZPjgagKCiMjIyBVQ3JvcCDjgaflr77lv5zjgafjgY3jgarjgYTjg5XjgqHjgqTjg6vjgpLkuovliY3jgavjg4Hjgqfjg4Pjgq/jgZnjgosgIzY3ODkKCiMjIyMg5Lul5LiL44Gu55S76Z2i44Gn5YWo44Gm44Gu44OG44K544OI44GM6YCa44KL44GT44GoCgotIOODl+ODreODleOCo+ODvOODq+eUu+WDj+abtOaWsAotIOOCq+ODkOODvOeUu+WDj+abtOaWsAotIOS4luW4r+eUu+WDj+abtOaWsAotIOWPo+W6p+OBruOCouOCpOOCs+ODs+i/veWKoAotIOiomOmMsueUu+mdouOBruWGmeecn+mBuOaKngoK44OG44K544OI6aCF55uuCgotIFsgXSBBbWF6b24gUGhvdG9zIOOBquOBqeOBp+WIh+OCiuWPluOCiuWvvuixoeOBq+ODreODvOOCq+ODq+OBq+OBquOBhOeUu+WDj+OCkumBuOaKnuOBl+OBn+WgtOWQiOOBq+OCqOODqeODvOOBriBUb2FzdCDjgYzooajnpLrjgZXjgozjgovjgZPjgagKLSBbIF0gQW1hem9uIFBob3RvcyDjgarjganjgafliIfjgorlj5bjgorlr77osaHjgavli5XnlLvjgpLpgbjmip7jgZfjgZ/loLTlkIjjgavjgqjjg6njg7zjga4gVG9hc3Qg44GM6KGo56S644GV44KM44KL44GT44GoCi0gWyBdIOWIh+OCiuWPluOCiuWvvuixoeOBq+mdmeatoueUu+OCkumBuOaKnuOBl+OBpueUu+WDj+OBruWIh+OCiuWPluOCiueUu+mdouOBq+mBt+enu+OBmeOCi+OBk+OBqAotIFsgXSDliIfjgorlj5bjgorlr77osaHjgasgR0lGIOOCouODi+ODoeODvOOCt+ODp+ODs+OCkumBuOaKnuOBl+OBpueUu+WDj+OBruWIh+OCiuWPluOCiueUu+mdouOBq+mBt+enu+OBmeOCi+OBk+OBqAoKIyMjIyDoqJjpjLLnlLvpnaLjga7jgb/ov73liqDjgafku6XkuIvjgpLlrp/mlr0KCi0gWyBdIOOCq+ODoeODqeOBp+OBruaSruW9seOBi+OCieeUu+WDj+OBruWIh+OCiuWPluOCiueUu+mdouOBq+mBt+enu+OBmeOCi+OBk+OBqAoKIyMjIOODl+ODrOODn+OCouODoCBMUCDjgq3jg6Pjg7Pjg5rjg7zjg7PnlLvlg4/jga7jgqvjg6vjg7zjgrvjg6vjgrXjgqTjgrrjgpLoqr/mlbTjgZnjgosgIzY3OTUKIyMjIFVJ44OG44K544OI44KS5ouh5YWF44GZ44KLICM2Nzg2CiMjIyBNb1B1YiDjga7luoPlkYrjgYzmtYHjgozjgovjgojjgYbjgavlr77lv5zjgZnjgosgIzY3ODgKCuOBk+OCjOOCieOBr+acrOeVqueSsOWig+OBp+OBr+ODhuOCueODiOOBp+OBjeOBquOBhOOBn+OCgeWun+aWveOBl+OBquOBhAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>normalCompileOnly</text>
+        <text>folderId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+        <text encoding="base64">XDxXZWJWaWV3XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>CompileOnly</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIDEg44O25pyI44Kt44Oj44Oa44O844Oz44Gr5ZCR44GR44Gm44OA44Kk44Ki44Ot44Kw44GM6KGo56S644GV44KM44KL44KI44GG44Gr5L+u5q2j44GZ44KLICM2Nzk0CgotIFsgXSDmlrDopo/jgqTjg7Pjgrnjg4jjg7zjg6vjgpLjgZfjgabnhKHmlpnjg6bjg7zjgrbjg7zjgafjg63jgrDjgqTjg7PjgZfjgabjgoLjgq3jg6Pjg7Pjg5rjg7zjg7Pjg4DjgqTjgqLjg63jgrDjgYzooajnpLrjgZXjgozjgarjgYTjgZPjgagKCiMjIyBVQ3JvcCDjgaflr77lv5zjgafjgY3jgarjgYTjg5XjgqHjgqTjg6vjgpLkuovliY3jgavjg4Hjgqfjg4Pjgq/jgZnjgosgIzY3ODkKCiMjIyMg5Lul5LiL44Gu55S76Z2i44Gn5YWo44Gm44Gu44OG44K544OI44GM6YCa44KL44GT44GoCgotIOODl+ODreODleOCo+ODvOODq+eUu+WDj+abtOaWsAotIOOCq+ODkOODvOeUu+WDj+abtOaWsAotIOS4luW4r+eUu+WDj+abtOaWsAotIOWPo+W6p+OBruOCouOCpOOCs+ODs+i/veWKoAotIOiomOmMsueUu+mdouOBruWGmeecn+mBuOaKngoK44OG44K544OI6aCF55uuCgotIFsgXSBBbWF6b24gUGhvdG9zIOOBquOBqeOBp+WIh+OCiuWPluOCiuWvvuixoeOBq+ODreODvOOCq+ODq+OBq+OBquOBhOeUu+WDj+OCkumBuOaKnuOBl+OBn+WgtOWQiOOBq+OCqOODqeODvOOBriBUb2FzdCDjgYzooajnpLrjgZXjgozjgovjgZPjgagKLSBbIF0gQW1hem9uIFBob3RvcyDjgarjganjgafliIfjgorlj5bjgorlr77osaHjgavli5XnlLvjgpLpgbjmip7jgZfjgZ/loLTlkIjjgavjgqjjg6njg7zjga4gVG9hc3Qg44GM6KGo56S644GV44KM44KL44GT44GoCi0gWyBdIOWIh+OCiuWPluOCiuWvvuixoeOBq+mdmeatoueUu+OCkumBuOaKnuOBl+OBpueUu+WDj+OBruWIh+OCiuWPluOCiueUu+mdouOBq+mBt+enu+OBmeOCi+OBk+OBqAotIFsgXSDliIfjgorlj5bjgorlr77osaHjgasgR0lGIOOCouODi+ODoeODvOOCt+ODp+ODs+OCkumBuOaKnuOBl+OBpueUu+WDj+OBruWIh+OCiuWPluOCiueUu+mdouOBq+mBt+enu+OBmeOCi+OBk+OBqAoKIyMjIyDoqJjpjLLnlLvpnaLjga7jgb/ov73liqDjgafku6XkuIvjgpLlrp/mlr0KCi0gWyBdIOOCq+ODoeODqeOBp+OBruaSruW9seOBi+OCieeUu+WDj+OBruWIh+OCiuWPluOCiueUu+mdouOBq+mBt+enu+OBmeOCi+OBk+OBqAoKIyMjIOODl+ODrOODn+OCouODoCBMUCDjgq3jg6Pjg7Pjg5rjg7zjg7PnlLvlg4/jga7jgqvjg6vjg7zjgrvjg6vjgrXjgqTjgrrjgpLoqr/mlbTjgZnjgosgIzY3OTUKIyMjIFVJ44OG44K544OI44KS5ouh5YWF44GZ44KLICM2Nzg2CiMjIyBNb1B1YiDjga7luoPlkYrjgYzmtYHjgozjgovjgojjgYbjgavlr77lv5zjgZnjgosgIzY3ODgKCuOBk+OCjOOCieOBr+acrOeVqueSsOWig+OBp+OBr+ODhuOCueODiOOBp+OBjeOBquOBhOOBn+OCgeWun+aWveOBl+OBquOBhAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbXVsYXRvckNvbXBpbGVPbmx5ICdjb20uZ29vZ2xlLmFkcy5tZWRpYXRpb246bW9wdWI6NS4xMy4xLjAnCg==</text>
+        <text encoding="base64">ICAgICAgaG9tZVZpZXdNb2RlbC5nZXRJdGVtcygpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB1aVRlc3RDb21waWxlT25seSAnY29tLmdvb2dsZS5hZHMubWVkaWF0aW9uOm1vcHViOjUuMTMuMS4wJwo=</text>
+      <register name="3" type="8">
+        <text>contact
+contact</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAuZmlsdGVyIHsgc2hhcmUgLT4gY29udGFjdHMuYW55IHsgaXQuZW1haWwgPT0gc2hhcmUudXNlckVtYWlsIH0gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5PYnNlcnZlcgo=</text>
+        <text encoding="base64">ICAgICAgQXBwTGF1bmNoQ2hlY2tlci5vbkFjdGl2aXR5Q3JlYXRlKHRoaXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIG9uQWN0aXZpdHlDcmVhdGVkKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgc3VwZXIub25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgYnVpbGRWaWV3cygpCiAgfQo=</text>
+        <text encoding="base64">ICAgIEFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpcykKICAgICAgICAuc2V0VmlldyhWaWV3LmluZmxhdGUodGhpcywgUi5sYXlvdXQuZGlhbG9nX2ZpcnN0X21lc3NhZ2UsIG51bGwpKQogICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbihSLnN0cmluZy5maXJzdF9kaWFsb2dfb2spIHsgZCwgXyAtPgogICAgICAgICAgYW5hbHl0aWNzVXRpbHMubG9nTWVudVRhcCgiZmlyc3QgZGlhbG9nIGhvdyB0byB1c2UiKQogICAgICAgICAgZC5kaXNtaXNzKCkKICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KHRoaXNASG9tZUFjdGl2aXR5LCBVc2FnZUFjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgICAgICB9CiAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKFIuc3RyaW5nLmZpcnN0X2RpYWxvZ19jYW5jZWwsIG51bGwpCiAgICAgICAgLmNyZWF0ZSgpLnNob3coKQogICAgQXBwTGF1bmNoQ2hlY2tlci5vbkFjdGl2aXR5Q3JlYXRlKHRoaXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9jb250YWN0X2hpc3RvcnkuY29udGFjdF9yZWN5Y2xlcl92aWV3CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uZnJhZ21lbnRfY29udGFjdF9oaXN0b3J5LmNvbnRlbnRzX2xvYWRpbmdfdmlldwppbXBvcnQga290bGlueC5hbmRyb2lkLnN5bnRoZXRpYy5tYWluLmZyYWdtZW50X2NvbnRhY3RfaGlzdG9yeS5lbXB0eV90ZXh0CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uZnJhZ21lbnRfY29udGFjdF9oaXN0b3J5LnJldHJ5X2xvYWRfYnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgQWxlcnREaWFsb2cuQnVpbGRlcih0aGlzKQogICAgICAgICAgLnNldFZpZXcoVmlldy5pbmZsYXRlKHRoaXMsIFIubGF5b3V0LmRpYWxvZ19maXJzdF9tZXNzYWdlLCBudWxsKSkKICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbihSLnN0cmluZy5maXJzdF9kaWFsb2dfb2spIHsgZCwgXyAtPgogICAgICAgICAgICBhbmFseXRpY3NVdGlscy5sb2dNZW51VGFwKCJmaXJzdCBkaWFsb2cgaG93IHRvIHVzZSIpCiAgICAgICAgICAgIGQuZGlzbWlzcygpCiAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KHRoaXNASG9tZUFjdGl2aXR5LCBVc2FnZUFjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgICAgICAgIH0KICAgICAgICAgIC5zZXROZWdhdGl2ZUJ1dHRvbihSLnN0cmluZy5maXJzdF9kaWFsb2dfY2FuY2VsLCBudWxsKQogICAgICAgICAgLmNyZWF0ZSgpLnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19lbXB0eS52aWV3LmVtcHR5X3JlY3ljbGVyX3ZpZXcKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19lbXB0eS52aWV3LnJlY29tbWVuZF90b3AKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19pdGVtLnZpZXcuYmFsYW5jZV9hY2NvdW50X25hbWUKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19pdGVtLnZpZXcuYmFsYW5jZV9hbW91bnQKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5iYWxhbmNlX3Jvd19pdGVtLnZpZXcuYmFsYW5jZV9pY29uCmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4ubGlzdF9hY2NvdW50X21hbnVhbF9pdGVtLnZpZXcubWFudWFsX2NsaWNrX2FyZWEKaW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5saXN0X2FjY291bnRfcmVjb21tZW5kX2l0ZW0udmlldy5yZWNvbW1lbmRfY29udGVudAppbXBvcnQga290bGlueC5hbmRyb2lkLnN5bnRoZXRpYy5tYWluLmxpc3RfYWNjb3VudF9yZWNvbW1lbmRfaXRlbS52aWV3LnJlY29tbWVuZF9saXN0CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4ubGlzdF9hY2NvdW50X3JlY29tbWVuZF9pdGVtLnZpZXcucmVjb21tZW5kX3RpdGxlCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9iYXJnYWluLmJhcmdhaW5fdG9vbGJhcgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5MYXlvdXRJbmZsYXRlcgo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-search encoding="base64">XDxXZWJWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxXZWJWaWV3XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
