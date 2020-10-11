@@ -64,21 +64,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/values-ja/strings.xml" timestamp="1601856954070">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/res/xml/network_security_config.xml" timestamp="1602417711268">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeActivity.kt" timestamp="1601859064070">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="57" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/util/OperationUtils.kt" timestamp="1601939301965">
         <mark key="[" line="8" column="0" />
@@ -89,17 +78,28 @@
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/ReloadableWebView.kt" timestamp="1602410476512">
         <mark key="[" line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/Const.kt" timestamp="1602427677949">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+      </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeViewModel.kt" timestamp="1601943143111">
         <mark key="[" line="253" column="32" />
         <mark key="]" line="82" column="30" />
         <mark key="^" line="206" column="25" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/res/layout/dialog_first_message.xml" timestamp="1601859014125">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/Notifications.kt" timestamp="1602427819563">
+        <mark key="[" line="47" column="64" />
+        <mark key="]" line="47" column="42" />
+        <mark key="^" line="88" column="44" />
+        <mark key="." line="47" column="42" />
+      </file>
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/MainActivity.kt" timestamp="1602427812801">
+        <mark key="[" line="227" column="42" />
+        <mark key="]" line="227" column="42" />
+        <mark key="^" line="225" column="4" />
+        <mark key="." line="227" column="42" />
       </file>
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/Entity.kt" timestamp="1602419008784">
         <mark key="[" line="13" column="3" />
@@ -116,11 +116,11 @@
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602198190763">
         <mark key="[" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" timestamp="1602418805311">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="29" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" timestamp="1602428104781">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeFragment.kt" timestamp="1602030976530">
         <mark key="[" line="157" column="0" />
@@ -344,20 +344,20 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldExheWVyVHlwZShWaWV3LkxBWUVSX1RZUEVfU09GVFdBUkUsIG51bGwpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRVcmwoZ2V0U3RyaW5nKFIuc3RyaW5nLmNhbWVyYV91cmwpICsgIj8iICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCg==</text>
+        <text encoding="base64">ICBjbGFzcyBTbGVlcEZsb3dGcmFnbWVudChwcml2YXRlIHZhbCBhY3Rpdml0eTogTWFpbkFjdGl2aXR5KSA6IERpYWxvZ0ZyYWdtZW50KCkgewogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlRGlhbG9nKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPyk6IERpYWxvZyA9CiAgICAgICAgQWxlcnREaWFsb2cuQnVpbGRlcihhY3Rpdml0eSkKICAgICAgICAgICAgLnNldFRpdGxlKCLjgYrjgoTjgZnjgb/jg5Xjg63jg7zlrp/mlr3norroqo0iKQogICAgICAgICAgICAuc2V0TWVzc2FnZSgi5Lul5LiL44KS5a6f5pa944GX44G+44GZ44CCXG5cbuODu+ODqeOCpOODiDLlm55cbuODu+OCqOOCouOCs+ODs+WBnOatolxu44O744GK44KE44GZ44G/44Gu6Z+z5qW95YaN55SfXG7jg7vvvIjlv4XopoHjgavlv5zjgZjjgabvvInmmI7ml6Xjga7lpKnmsJfjga7norroqo0iKQogICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oIuOChOOCgeOCiyIsIG51bGwpCiAgICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbigi5a6f6KGMIikgeyBfLCBfIC0+CiAgICAgICAgICAgICAgc2xlZXBGbG93KGFjdGl2aXR5KQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5jcmVhdGUoKQogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNldExheWVyVHlwZShWaWV3LkxBWUVSX1RZUEVfU09GVFdBUkUsIG51bGwpCg==</text>
