@@ -124,7 +124,7 @@
         <mark key="]" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602429909000">
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602456991995">
         <mark key="[" line="76" column="34" />
         <mark key="]" line="76" column="34" />
         <mark key="." line="76" column="34" />
@@ -155,7 +155,7 @@
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/res/layout/camera_fragment.xml" timestamp="1602418809393">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/service/HomeSituationService.kt" timestamp="1602429684289">
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/service/HomeSituationService.kt" timestamp="1602456997385">
         <mark key="[" line="55" column="8" />
         <mark key="]" line="55" column="8" />
         <mark key="^" line="80" column="107" />
@@ -348,14 +348,14 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBASnNvbkNsYXNzKGdlbmVyYXRlQWRhcHRlciA9IHRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>isHome != isNowHome</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>toString(</text>
+        <text>isHome != isNowHome</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
