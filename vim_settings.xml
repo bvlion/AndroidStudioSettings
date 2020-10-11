@@ -122,8 +122,10 @@
       <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/API.kt" timestamp="1602198190763">
         <mark key="[" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" timestamp="1602410575316">
-        <mark key="[" line="39" column="56" />
+      <file name="$USER_HOME$/pworkspace/OuchiAppli/app/src/main/java/net/ambitious/android/ouchi_appli/util/MainActivityUtilities.kt" timestamp="1602417085288">
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/pworkspace/ShareBookmarks/app/src/main/java/net/ambitious/android/sharebookmarks/ui/home/HomeFragment.kt" timestamp="1602030976530">
         <mark key="[" line="157" column="0" />
@@ -345,13 +347,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZG9tYWluIGluY2x1ZGVTdWJkb21haW5zPSJ0cnVlIj4xOTIuMTY4LjExLjE1MDwvZG9tYWluPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>item.ogpUrl</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJWaWV3XD4=</text>
@@ -360,35 +362,35 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZG9tYWluIGluY2x1ZGVTdWJkb21haW5zPSJ0cnVlIj4xOTIuMTY4LjExLjE1MDwvZG9tYWluPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0ub2dwVXJsPy5sZXQgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYlZpZXdDbGllbnQgPSBBdXRvUmVsb2FkV2ViVmlld0NsaWVudChnZXRTdHJpbmcoUi5zdHJpbmcuY2FtZXJhX3VybCkpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZG9tYWluIGluY2x1ZGVTdWJkb21haW5zPSJ0cnVlIj4xOTIuMTY4LjExLjE1MDwvZG9tYWluPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGl0ZW0ub2dwVXJsPy5sZXQgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaG9tZVZpZXdNb2RlbC5nZXRJdGVtcygpCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>contact
 contact</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyIHsgc2hhcmUgLT4gY29udGFjdHMuYW55IHsgaXQuZW1haWwgPT0gc2hhcmUudXNlckVtYWlsIH0gfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQXBwTGF1bmNoQ2hlY2tlci5vbkFjdGl2aXR5Q3JlYXRlKHRoaXMpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpcykKICAgICAgICAuc2V0VmlldyhWaWV3LmluZmxhdGUodGhpcywgUi5sYXlvdXQuZGlhbG9nX2ZpcnN0X21lc3NhZ2UsIG51bGwpKQogICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbihSLnN0cmluZy5maXJzdF9kaWFsb2dfb2spIHsgZCwgXyAtPgogICAgICAgICAgYW5hbHl0aWNzVXRpbHMubG9nTWVudVRhcCgiZmlyc3QgZGlhbG9nIGhvdyB0byB1c2UiKQogICAgICAgICAgZC5kaXNtaXNzKCkKICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KHRoaXNASG9tZUFjdGl2aXR5LCBVc2FnZUFjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgICAgICB9CiAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKFIuc3RyaW5nLmZpcnN0X2RpYWxvZ19jYW5jZWwsIG51bGwpCiAgICAgICAgLmNyZWF0ZSgpLnNob3coKQogICAgQXBwTGF1bmNoQ2hlY2tlci5vbkFjdGl2aXR5Q3JlYXRlKHRoaXMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQWxlcnREaWFsb2cuQnVpbGRlcih0aGlzKQogICAgICAgICAgLnNldFZpZXcoVmlldy5pbmZsYXRlKHRoaXMsIFIubGF5b3V0LmRpYWxvZ19maXJzdF9tZXNzYWdlLCBudWxsKSkKICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbihSLnN0cmluZy5maXJzdF9kaWFsb2dfb2spIHsgZCwgXyAtPgogICAgICAgICAgICBhbmFseXRpY3NVdGlscy5sb2dNZW51VGFwKCJmaXJzdCBkaWFsb2cgaG93IHRvIHVzZSIpCiAgICAgICAgICAgIGQuZGlzbWlzcygpCiAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KHRoaXNASG9tZUFjdGl2aXR5LCBVc2FnZUFjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgICAgICAgIH0KICAgICAgICAgIC5zZXROZWdhdGl2ZUJ1dHRvbihSLnN0cmluZy5maXJzdF9kaWFsb2dfY2FuY2VsLCBudWxsKQogICAgICAgICAgLmNyZWF0ZSgpLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAuZmlsdGVyIHsgc2hhcmUgLT4gY29udGFjdHMuYW55IHsgaXQuZW1haWwgPT0gc2hhcmUudXNlckVtYWlsIH0gfQo=</text>
       </register>
     </registers>
   </component>
