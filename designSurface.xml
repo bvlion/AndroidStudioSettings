@@ -18,7 +18,7 @@
         <entry key="app/src/main/res/layout/item_payment_category_content.xml" value="0.6143884892086331" />
         <entry key="app/src/main/res/layout/online_account_status_item.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/recently_category_used_item.xml" value="0.22916666666666666" />
-        <entry key="app/src/main/res/layout/recently_empty_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/recently_empty_item.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/row_item.xml" value="0.22291666666666668" />
       </map>
     </option>
