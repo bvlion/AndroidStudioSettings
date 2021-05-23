@@ -4,6 +4,7 @@
       <map>
         <entry key="app/src/main/res/layout/fragment_inquiry.xml" value="0.10382513661202186" />
         <entry key="app/src/main/res/layout/row_notification.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_usage.xml" value="0.1" />
       </map>
     </option>
   </component>
