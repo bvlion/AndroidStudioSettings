@@ -9,6 +9,8 @@
         <entry key="app/src/main/res/layout/fragment_inquiry.xml" value="0.10382513661202186" />
         <entry key="app/src/main/res/layout/row_notification.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_usage.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20347222222222222" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20347222222222222" />
       </map>
     </option>
   </component>
