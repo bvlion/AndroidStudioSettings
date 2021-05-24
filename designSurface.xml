@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.20347222222222222" />
         <entry key="app/src/main/res/drawable/ic_sheb_bvlion.xml" value="0.11041666666666666" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.231640625" />
         <entry key="app/src/main/res/layout/fragment_inquiry.xml" value="0.10382513661202186" />
