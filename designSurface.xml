@@ -2,15 +2,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11041666666666666" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.20347222222222222" />
-        <entry key="app/src/main/res/drawable/ic_sheb_bvlion.xml" value="0.11041666666666666" />
-        <entry key="app/src/main/res/drawable/splash.xml" value="0.231640625" />
-        <entry key="app/src/main/res/layout/fragment_inquiry.xml" value="0.10382513661202186" />
-        <entry key="app/src/main/res/layout/row_notification.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/row_usage.xml" value="0.1" />
-        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20347222222222222" />
-        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20347222222222222" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_add_vector.xml" value="0.178125" />
+        <entry key="app/src/main/res/layout/activity_account_history_transition.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/activity_add_account.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/activity_balance_diagnosis.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/activity_history_detail.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/activity_select_category2.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/activity_select_payment.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/dialog_first_message.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_budget_bottom_sheet.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/fragment_payment_category.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/fragment_select_category.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/history_row_item.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/home_payment_schedule.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/item_category_setting.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/item_payment_category_content.xml" value="0.6143884892086331" />
+        <entry key="app/src/main/res/layout/medium_spent_money_widget.xml" value="0.3242753623188406" />
+        <entry key="app/src/main/res/layout/online_account_status_item.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/recently_category_used_item.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/recently_empty_item.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/row_item.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/view_online_account_submit.xml" value="0.19067028985507245" />
       </map>
     </option>
   </component>
