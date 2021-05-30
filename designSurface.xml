@@ -7,14 +7,17 @@
         <entry key="app/src/main/res/layout/activity_account_history_transition.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/activity_add_account.xml" value="0.2526041666666667" />
         <entry key="app/src/main/res/layout/activity_balance_diagnosis.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/activity_contact.xml" value="0.15625" />
         <entry key="app/src/main/res/layout/activity_history_detail.xml" value="0.16302083333333334" />
         <entry key="app/src/main/res/layout/activity_select_category2.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/activity_select_payment.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/dialog_first_message.xml" value="0.19322916666666667" />
         <entry key="app/src/main/res/layout/fragment_budget_bottom_sheet.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/fragment_contact_reply_show.xml" value="0.15625" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22291666666666668" />
         <entry key="app/src/main/res/layout/fragment_others_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_payment_category.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/fragment_question_top.xml" value="0.15625" />
         <entry key="app/src/main/res/layout/fragment_select_category.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/history_row_item.xml" value="0.16302083333333334" />
         <entry key="app/src/main/res/layout/home_payment_schedule.xml" value="0.19579533941236069" />
