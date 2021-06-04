@@ -17,6 +17,7 @@
         <entry key="app/src/main/res/drawable/calendar_background.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/category_tab_background.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/ic_add_vector.xml" value="0.178125" />
+        <entry key="app/src/main/res/drawable/ic_input_tutorial_done.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/account_settings_enable_account.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_account_history_transition.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/activity_add_account.xml" value="0.2526041666666667" />
