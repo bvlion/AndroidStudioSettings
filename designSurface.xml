@@ -36,7 +36,7 @@
         <entry key="app/src/main/res/layout/fragment_budget_bottom_sheet.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_contact_reply_show.xml" value="0.15625" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22291666666666668" />
-        <entry key="app/src/main/res/layout/fragment_input_tutorial_dialog.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/fragment_input_tutorial_dialog.xml" value="0.3260816097552761" />
         <entry key="app/src/main/res/layout/fragment_others_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_payment_category.xml" value="0.3278985507246377" />
         <entry key="app/src/main/res/layout/fragment_question_top.xml" value="0.15625" />
@@ -54,7 +54,10 @@
         <entry key="app/src/main/res/layout/recently_category_used_item.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/recently_empty_item.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/row_item.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/view_input_tutorial_pager_item.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/view_online_account_submit.xml" value="0.19067028985507245" />
+        <entry key="app/src/main/res/layout/view_slide_image_pager_item.xml" value="0.19157608695652173" />
+        <entry key="app/src/main/res/layout/view_top_pager_item.xml" value="0.19157608695652173" />
         <entry key="app/src/main/res/layout/view_transition_for_free_user.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.23020833333333332" />
       </map>
