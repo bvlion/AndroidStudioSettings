@@ -12,7 +12,7 @@
         <entry key="app/src/main/res/drawable/button_round_square_disabled.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/button_round_square_green.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/button_round_square_litegreen.xml" value="0.24427083333333333" />
-        <entry key="app/src/main/res/drawable/button_zaim_green.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/drawable/button_zaim_green.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/button_zaim_litegreen.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/calendar_background.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/category_tab_background.xml" value="0.24427083333333333" />
@@ -38,8 +38,9 @@
         <entry key="app/src/main/res/layout/dialog_first_message.xml" value="0.19322916666666667" />
         <entry key="app/src/main/res/layout/fragment_budget_bottom_sheet.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_contact_reply_show.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/fragment_create_group_dialog.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22291666666666668" />
-        <entry key="app/src/main/res/layout/fragment_input_tutorial_dialog.xml" value="0.3260816097552761" />
+        <entry key="app/src/main/res/layout/fragment_input_tutorial_dialog.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_others_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_payment_category.xml" value="0.3278985507246377" />
         <entry key="app/src/main/res/layout/fragment_question_top.xml" value="0.15625" />
