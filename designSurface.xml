@@ -20,6 +20,27 @@
         <entry key="app/src/main/res/drawable/ic_input_tutorial_done.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/icon_home_user_icon_border.xml" value="0.215625" />
         <entry key="app/src/main/res/drawable/icon_notification_border.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/shape_badge.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_badge_circle.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_badge_error.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_badge_online_history.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_billing_button.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_billing_card.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_billing_light_button.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_billing_not_selected_plan.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_billing_term.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_billing_tips_new.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_circle.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_disable_circle.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_from_account.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_gray_dash_line.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_gray_dash_line_vertical.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_gray_scale_4dp_radius.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_history_memo.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_new_receipt_,mask_text.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_scraping_card.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_theme_4dp_radius.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout-v23/activity_select_input_method.xml" value="0.2635416666666667" />
         <entry key="app/src/main/res/layout/account_settings_enable_account.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_account_history_transition.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/activity_add_account.xml" value="0.2526041666666667" />
@@ -32,7 +53,7 @@
         <entry key="app/src/main/res/layout/activity_mail_auth.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/activity_select_category2.xml" value="0.19579533941236069" />
-        <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.1838768115942029" />
         <entry key="app/src/main/res/layout/activity_select_payment.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/ad_unified.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.223731884057971" />
