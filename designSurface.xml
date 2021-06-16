@@ -72,6 +72,8 @@
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22291666666666668" />
         <entry key="app/src/main/res/layout/fragment_input_tutorial_dialog.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_money_spent_settings.xml" value="0.2635416666666667" />
+        <entry key="app/src/main/res/layout/fragment_online_account_answer.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_online_account_login.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/fragment_others_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_payment_category.xml" value="0.3278985507246377" />
         <entry key="app/src/main/res/layout/fragment_question_top.xml" value="0.15625" />
@@ -87,6 +89,7 @@
         <entry key="app/src/main/res/layout/home_unified_native_ad_view.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/item_category_setting.xml" value="0.3278985507246377" />
         <entry key="app/src/main/res/layout/item_payment_category_content.xml" value="0.6143884892086331" />
+        <entry key="app/src/main/res/layout/list_login_input_item.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/medium_spent_money_widget.xml" value="0.3242753623188406" />
         <entry key="app/src/main/res/layout/money_spent_setting_item_category.xml" value="0.5476478672574423" />
         <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.223731884057971" />
