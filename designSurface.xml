@@ -58,7 +58,7 @@
         <entry key="app/src/main/res/layout/activity_history_detail.xml" value="0.16302083333333334" />
         <entry key="app/src/main/res/layout/activity_input_new.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/activity_mail_auth.xml" value="0.16354166666666667" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4106776180698152" />
         <entry key="app/src/main/res/layout/activity_money_spent_settings.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_select_category2.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.1838768115942029" />
@@ -106,6 +106,7 @@
         <entry key="app/src/main/res/layout/view_top_pager_item.xml" value="0.19157608695652173" />
         <entry key="app/src/main/res/layout/view_transition_for_free_user.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.37037037037037035" />
         <entry key="app/src/main/res/menu/menu_receipt_input_tutorial.xml" value="0.22916666666666666" />
       </map>
     </option>
