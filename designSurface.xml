@@ -40,6 +40,7 @@
         <entry key="app/src/main/res/drawable/icon_home_user_icon_border.xml" value="0.215625" />
         <entry key="app/src/main/res/drawable/icon_notification_border.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/shape_badge.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/drawable/shape_badge_attr_color.xml" value="0.2328125" />
         <entry key="app/src/main/res/drawable/shape_badge_circle.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/drawable/shape_badge_error.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/drawable/shape_badge_online_history.xml" value="0.2786458333333333" />
