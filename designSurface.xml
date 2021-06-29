@@ -83,6 +83,8 @@
         <entry key="app/src/main/res/layout/camera_preview_menu.xml" value="0.18115942028985507" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.223731884057971" />
         <entry key="app/src/main/res/layout/dialog_first_message.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_analyze.xml" value="0.11197916666666667" />
+        <entry key="app/src/main/res/layout/fragment_analyze_contents.xml" value="0.11197916666666667" />
         <entry key="app/src/main/res/layout/fragment_analyze_tab_first_dialog.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/fragment_budget_bottom_sheet.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_comeback_campaign_dialog.xml" value="0.16354166666666667" />
