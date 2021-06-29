@@ -79,6 +79,7 @@
         <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.1838768115942029" />
         <entry key="app/src/main/res/layout/activity_select_payment.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/ad_unified.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/analyze_budget_item.xml" value="0.2682291666666667" />
         <entry key="app/src/main/res/layout/application_setting_guide_for_camera.xml" value="0.18115942028985507" />
         <entry key="app/src/main/res/layout/camera_preview_menu.xml" value="0.18115942028985507" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.223731884057971" />
@@ -110,8 +111,10 @@
         <entry key="app/src/main/res/layout/home_profile.xml" value="0.18885869565217392" />
         <entry key="app/src/main/res/layout/home_screen_setting_content.xml" value="0.18115942028985507" />
         <entry key="app/src/main/res/layout/home_unified_native_ad_view.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/item_analyze_budget_total.xml" value="0.2682291666666667" />
         <entry key="app/src/main/res/layout/item_category_setting.xml" value="0.3278985507246377" />
         <entry key="app/src/main/res/layout/item_payment_category_content.xml" value="0.6143884892086331" />
+        <entry key="app/src/main/res/layout/item_simple_title_header.xml" value="0.2682291666666667" />
         <entry key="app/src/main/res/layout/list_login_input_item.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/medium_online_account_history_widget.xml" value="0.4776255707762557" />
         <entry key="app/src/main/res/layout/medium_online_account_history_widget_row.xml" value="0.67" />
