@@ -35,6 +35,7 @@
         <entry key="app/src/main/res/drawable/ic_arrow_back_black_vector.xml" value="0.21145833333333333" />
         <entry key="app/src/main/res/drawable/ic_camera_long_receipt.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/ic_camera_long_receipt_off.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/ic_home_check_box_off.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/drawable/ic_input_tutorial_done.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/icon_home_user_icon_border.xml" value="0.215625" />
@@ -86,7 +87,7 @@
         <entry key="app/src/main/res/layout/camera_preview_menu.xml" value="0.18115942028985507" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.223731884057971" />
         <entry key="app/src/main/res/layout/dialog_first_message.xml" value="0.19322916666666667" />
-        <entry key="app/src/main/res/layout/fragment_analyze.xml" value="0.22146739130434784" />
+        <entry key="app/src/main/res/layout/fragment_analyze.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_analyze_contents.xml" value="0.11197916666666667" />
         <entry key="app/src/main/res/layout/fragment_analyze_tab_first_dialog.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/fragment_budget_bottom_sheet.xml" value="0.19579533941236069" />
