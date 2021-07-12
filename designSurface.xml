@@ -63,7 +63,7 @@
         <entry key="app/src/main/res/drawable/shape_theme_4dp_radius.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/layout-v23/activity_select_input_method.xml" value="0.2635416666666667" />
         <entry key="app/src/main/res/layout/account_settings_enable_account.xml" value="0.16354166666666667" />
-        <entry key="app/src/main/res/layout/activity_account_history_transition.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/activity_account_history_transition.xml" value="0.2246376811594203" />
         <entry key="app/src/main/res/layout/activity_add_account.xml" value="0.2526041666666667" />
         <entry key="app/src/main/res/layout/activity_analyze_detail.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/activity_api_list_view.xml" value="0.22192028985507245" />
@@ -78,7 +78,7 @@
         <entry key="app/src/main/res/layout/activity_money_spent_settings.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_select_category.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_select_category2.xml" value="0.19579533941236069" />
-        <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.2246376811594203" />
         <entry key="app/src/main/res/layout/activity_select_payment.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/ad_unified.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/analyze_budget_item.xml" value="0.2682291666666667" />
