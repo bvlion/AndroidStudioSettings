@@ -78,6 +78,7 @@
         <entry key="app/src/main/res/layout/activity_money_spent_settings.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_select_category.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_select_category2.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/activity_select_category_resource.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/activity_select_input_method.xml" value="0.2246376811594203" />
         <entry key="app/src/main/res/layout/activity_select_payment.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/ad_unified.xml" value="0.296195652173913" />
@@ -110,8 +111,9 @@
         <entry key="app/src/main/res/layout/fragment_top_contents.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/fragment_welcome_dialog.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/history_row_item.xml" value="0.16302083333333334" />
-        <entry key="app/src/main/res/layout/home_money_spent.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/home_money_spent.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/home_money_spent_category_row.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/home_money_spent_period_row.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/home_native_ad.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/home_payment_schedule.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/home_profile.xml" value="0.18885869565217392" />
@@ -130,6 +132,8 @@
         <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.223731884057971" />
         <entry key="app/src/main/res/layout/notification_row_item.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/online_account_status_item.xml" value="0.19579533941236069" />
+        <entry key="app/src/main/res/layout/preference_compare_with_similar_compare_button.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/preference_compare_with_similar_footer.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/recently_category_used_item.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/recently_empty_item.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/row_item.xml" value="0.22291666666666668" />
@@ -143,6 +147,7 @@
         <entry key="app/src/main/res/layout/view_transition_for_free_user.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.23020833333333332" />
         <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.37037037037037035" />
+        <entry key="app/src/main/res/menu/menu_contact.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/menu/menu_receipt_input_tutorial.xml" value="0.22916666666666666" />
       </map>
     </option>
