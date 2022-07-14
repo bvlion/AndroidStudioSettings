@@ -3,20 +3,21 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*DataSource.kt</mask>
-    <mask>*.gradle</mask>
-    <mask>*Service*</mask>
-    <mask>*Prese*</mask>
-    <mask>*.kt</mask>
-    <mask>*Fragment.kt</mask>
-    <mask>*m</mask>
-    <mask>*.xml</mask>
+    <mask>Default*Case.kt</mask>
+    <mask>*Database.kt</mask>
+    <mask>Default*Repository.kt</mask>
     <mask>*ViewModel.kt</mask>
-    <mask>*xml</mask>
+    <mask>*t.kt</mask>
+    <mask>*Repository.kt</mask>
+    <mask>*Fragment.kt</mask>
+    <mask>*.gradle</mask>
+    <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
