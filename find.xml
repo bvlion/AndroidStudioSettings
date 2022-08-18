@@ -8,15 +8,15 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*DataSource.kt</mask>
-    <mask>*.gradle</mask>
-    <mask>*Service*</mask>
-    <mask>*Prese*</mask>
-    <mask>*.kt</mask>
-    <mask>*Fragment.kt</mask>
-    <mask>*m</mask>
-    <mask>*.xml</mask>
+    <mask>Default*Case.kt</mask>
+    <mask>*Database.kt</mask>
+    <mask>Default*Repository.kt</mask>
     <mask>*ViewModel.kt</mask>
-    <mask>*xml</mask>
+    <mask>*t.kt</mask>
+    <mask>*Repository.kt</mask>
+    <mask>*Fragment.kt</mask>
+    <mask>*.gradle</mask>
+    <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
