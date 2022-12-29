@@ -8,8 +8,9 @@
             <value value="9A9AX0L9S3" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Google Pixel 3a XL" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
